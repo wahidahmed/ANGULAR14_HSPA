@@ -1,0 +1,50 @@
+[
+  {
+    "Id":1,
+    "Name":"Barlia Hourse",
+    "SellRent":1,
+    "PType":"housing",
+    "Price":12200,
+    "Image":"prop-1.png"
+  },
+  {
+    "Id":2,
+    "Name":"Karlia Hourse",
+    "SellRent":1,
+    "PType":"housing",
+    "Price":56550,
+    "Image":"prop-2.png"
+  },
+  {
+    "Id":3,
+    "Name":"Merron Hourse",
+    "SellRent":1,
+    "PType":"housing",
+    "Price":6700,
+    "Image":"prop-3.png"
+  },
+  {
+    "Id":4,
+   "Name":"Felkon Hourse",
+   "SellRent":1,
+    "PType":"Rent",
+    "Price":89000,
+    "Image":"prop-4.png"
+  },
+  {
+    "Id":5,
+    "Name":"Remont Hourse",
+    "SellRent":2,
+    "PType":"Rent",
+    "Price":56400,
+    "Image":"prop-5.png"
+  },
+  {
+    "Id":6,
+    "Name":"Diamond Hourse",
+    "SellRent":2,
+    "PType":"Rent",
+    "Price":200090,
+    "Image":""
+  }
+]
